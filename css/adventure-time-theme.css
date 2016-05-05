@@ -24,3 +24,13 @@
 	float: right;
 	margin-top: -5px;
 }
+
+
+#sidebar {
+	background-color: #424A5D;
+}
+
+aside {
+	position: fixed;
+	z-index: 2;
+}
