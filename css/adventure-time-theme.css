@@ -1,0 +1,26 @@
+/*No tocar este codigo*/ 
+.sidebar-closed > #sidebar > ul {
+    display: none;
+}
+
+.sidebar-closed #main-content {
+    margin-left: 0px;
+}
+
+.sidebar-closed #sidebar {
+    margin-left: -180px;
+}
+
+/*Escribe aqui tu codigo */
+
+.black-bg {
+	background-color: #424A5D;
+	padding: 20px;
+}
+
+.top-menu {
+	background-color: #9C4C9D;
+	display: inline-block;
+	float: right;
+	margin-top: -5px;
+}
